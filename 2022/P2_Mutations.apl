@@ -9,3 +9,4 @@ GAGCCTACTAACGGGAU
 
 1⊥=⍱∧⍥(∊∘'UT')
 +/≠⍥('U'@('T'∘=))
++.≠⍥('ACG'⍳⊢)
